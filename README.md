@@ -1,4 +1,4 @@
-# crlf-injection-scanner 💻👩‍💻👩
+# crlf-injection-scanner 💻👩‍💻
 CRLF injection scanner<br />
 
 #what is crlf injection <br />
