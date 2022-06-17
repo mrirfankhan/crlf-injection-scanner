@@ -7,14 +7,16 @@ that occurs when an attacker injects a CRLF character sequence where it is not e
 When CRLF injection is used to split an HTTP response header,<br />
 it is referred to as HTTP Response Splittin<br />
 
-####how to use this tool <br />
+****how to use this tool <br />
 fist install requirement module in python<br />
 run terminal ,linux ,windows ,mac<br />
 
-Enter url scannig is start now<br />
+****Enter url scannig is start now<br />
 
-######demo for use<br />
+****demo for use<br />
 
+
+https://user-images.githubusercontent.com/85333735/174330014-bbcffaa8-3c90-4771-9bd0-f09777b6b94f.mp4
 
 
 
