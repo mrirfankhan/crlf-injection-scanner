@@ -19,4 +19,5 @@ run terminal ,linux ,windows ,mac<br />
 https://user-images.githubusercontent.com/85333735/174330014-bbcffaa8-3c90-4771-9bd0-f09777b6b94f.mp4
 
 
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mrirfan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrirfan" /></a></p><br><br>
